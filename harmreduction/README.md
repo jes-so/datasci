@@ -1,4 +1,4 @@
-# About This Project
+# In Search of Better Harm Reduction Data
 
 This project analyzes existing data available for harm reduction target variables and identifies weaknesses in the current offerings.
 It proposes a long-term data collection approach to harm reduction outcomes in order to work toward training a predictive model which
