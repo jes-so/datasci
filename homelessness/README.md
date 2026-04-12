@@ -1,4 +1,4 @@
-# About This Project
+# Predicting Homelessness Rates From Housing and Urban Development Data
 
 This project predicts homelessness rates from data provided by HUD (Housing and Urban Development) using random forest modeling
 techniques. It leverages many relevant predictors, such as income and SSD participation in an area, to predict homelessness rates
